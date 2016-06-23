@@ -1,8 +1,8 @@
 <?php
 
 // PATHS
-define('URL', 'http://localhost/PhpProjectPage/');
-//define('URL', 'http://92.37.127.253/PhpProjectPage/');
+define('URL', 'Your directory of this project here!!!');
+
 define('LIBS', 'libs/');
 define('UTIL', 'util/');
 
