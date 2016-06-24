@@ -3,14 +3,14 @@
 // PATHS
 define('URL', 'Your directory of this project here!!!');
 
+// project libraries
 define('LIBS', 'libs/');
 define('UTIL', 'util/');
 
-// DATABASE
+// DATABASE, name of your host, DB and password
 define('DB_TYPE', 'mysql'); 
 define('DB_USER', 'root');
 define('DB_HOST', 'localhost');
-//name of your DB
 define('DB_NAME', 'yourDb');
 define('DB_PASSWORD', 'yourPassword');
 // tables you must have. Rename them on your will.
